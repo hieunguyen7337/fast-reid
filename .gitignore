@@ -1,5 +1,7 @@
 
 logs
+outputs/
+weights/
 
 # compilation and distribution
 __pycache__
