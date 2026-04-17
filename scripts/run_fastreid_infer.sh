@@ -2,7 +2,7 @@
 #PBS -N fastreid_infer
 #PBS -l walltime=02:00:00
 #PBS -l mem=16gb
-#PBS -l ncpus=2
+#PBS -l ncpus=1
 #PBS -l ngpus=1
 #PBS -j eo
 #PBS -m abe
